@@ -24,6 +24,10 @@ To achieve a realistic underwater effect, I used a [Metal post-processing shader
 
 For the UI, I used [SwiftUI](https://developer.apple.com/xcode/swiftui/) and used [TipKit](https://developer.apple.com/documentation/TipKit) for the tutorial.
 
+## Screenshot
+
+<img width="1584" src="https://github.com/jcuberdruid/DeepBlue/assets/44100876/c7fb9c2c-576f-4fdc-a0a8-3763c070ce98">
+
 ## License
 
 I'm sharing this for educational purposes only; please reach out if you'd like to reuse some part of this.
